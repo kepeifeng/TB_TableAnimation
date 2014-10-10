@@ -12,9 +12,13 @@
 @interface TableViewController (){
     NSMutableArray *objects;
 }
+
+@property (nonatomic) CATransform3D initialTransform;
 @end
 
-@implementation TableViewController
+@implementation TableViewController{
+    NSIndexPath * maxLoadedIndexPath;
+}
 
 - (id)initWithStyle:(UITableViewStyle)style
 {
@@ -35,6 +39,12 @@
             NSString *str = [NSString stringWithFormat:@"This is the fabulous Row %d",i];
             [objects addObject:str];
         }
+        
+        CATransform3D transform = CATransform3DIdentity;
+        transform = CATransform3DTranslate(transform, 40, 0, 0);
+        _initialTransform = transform;
+        
+        
     }
     return self;
 }
@@ -49,6 +59,13 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+
+-(void)reload{
+    maxLoadedIndexPath = nil;
+    [self.tableView reloadData];
+}
+
 
 #pragma mark - Table view data source
 
@@ -91,7 +108,7 @@
 -(void)tableView:(UITableView *)tableView willDisplayCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath{
     
     
-    //1. Setup the CATransform3D structure
+    /*//1. Setup the CATransform3D structure
     CATransform3D rotation;
     rotation = CATransform3DMakeRotation( (90.0*M_PI)/180, 0.0, 0.7, 0.4);
     rotation.m34 = 1.0/ -600;
@@ -116,7 +133,21 @@
     cell.layer.transform = CATransform3DIdentity;
     cell.alpha = 1;
     cell.layer.shadowOffset = CGSizeMake(0, 0);
-    [UIView commitAnimations];
+    [UIView commitAnimations];*/
+    
+    if (maxLoadedIndexPath == nil || indexPath.section> maxLoadedIndexPath.section || (indexPath.section == maxLoadedIndexPath.section && indexPath.row > maxLoadedIndexPath.row)) {
+        maxLoadedIndexPath = indexPath;
+        cell.layer.transform = self.initialTransform;
+        cell.layer.opacity = 0;
+        
+        [UIView animateWithDuration:0.5 animations:^{
+            cell.layer.transform = CATransform3DIdentity;
+            cell.layer.opacity = 1;
+        }];
+    }
+
+    
+    
 }
 
 

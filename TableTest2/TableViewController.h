@@ -10,4 +10,5 @@
 
 @interface TableViewController : UITableViewController
 
+-(void)reload;
 @end

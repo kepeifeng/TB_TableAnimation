@@ -1,0 +1,724 @@
+TTB_TableAnimation
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Info.plist /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Info.plist
+cProcessPCH /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch.pch TableTest2/TB_TableAnimation-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation normal x86_64
+cGenerateDSYMFile /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app.dSYM /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation
+cCopyStringsFile /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/en.lproj/InfoPlist.strings TableTest2/en.lproj/InfoPlist.strings
+cCpResource TableTest2/Default.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default.png
+cCpResource TableTest2/Default@2x.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default@2x.png
+cCpResource TableTest2/colors@2x.gif build/Debug-iphonesimulator/TB_TableAnimation.app/colors@2x.gif
+cCpResource TableTest2/Default-568h@2x.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default-568h@2x.png
+cCompileXIB /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TableViewController.xib
+cCpResource 114×114.png build/Debug-iphonesimulator/TB_TableAnimation.app/114×114.png
+cTouch /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005311A6CC00000000000003B4
+t1393665740
+s948
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005311A6D8000000000000019E
+t1393665752
+s414
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005311A6DC00000000005B82F0
+t1393665756
+s5997296
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005311A6DC0000000000446820
+t1393665756
+s4483104
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005311A6DE000000000088D8C0
+t1393665758
+s8968384
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005311A6E2000000000048F720
+t1393665762
+s4781856
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005311A6E40000000001F1DE10
+t1393665764
+s32628240
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005311A6FC00000000002BC360
+t1393665788
+s2868064
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005311A70B0000000000002338
+t1393665803
+s9016
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005311A70B000000000008D370
+t1393665803
+s578416
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005311A70B0000000000392E20
+t1393665803
+s3747360
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000537C152F00000000000141F0
+t1400640815
+s82416
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005311A70C0000000000014A80
+t1393665804
+s84608
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005311A70C0000000000033BA0
+t1393665804
+s211872
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005311A70C000000000001CFB0
+t1393665804
+s118704
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005311A70C000000000001B2B0
+t1393665804
+s111280
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005311A70C00000000000C9570
+t1393665804
+s824688
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005311A70C0000000000063280
+t1393665804
+s406144
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005311A70C0000000000008880
+t1393665804
+s34944
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005311A70C0000000000015080
+t1393665804
+s86144
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005311A70C00000000000230F0
+t1393665804
+s143600
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005311A70C000000000000E380
+t1393665804
+s58240
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005311A70C0000000000089380
+t1393665804
+s562048
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005311A70C0000000000017320
+t1393665804
+s95008
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005311A70C0000000000039CD0
+t1393665804
+s236752
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005311A70C000000000000B0B0
+t1393665804
+s45232
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005311A70C0000000000167E80
+t1393665804
+s1474176
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005311A70C00000000000106A0
+t1393665804
+s67232
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005311A70C000000000001CE40
+t1393665804
+s118336
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005311A70C00000000000740C0
+t1393665804
+s475328
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005311A70C000000000006CA60
+t1393665804
+s445024
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005311A70C000000000001BAD0
+t1393665804
+s113360
+
+N/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005311A70C0000000000084A20
+t1393665804
+s543264
+
+N/Applications/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005311A6A8000000000000514C
+t1393665704
+s20812
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/114×114.png
+c00000000543796990000000000000225
+t1412929177
+s549
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/AppDelegate.h
+c0000000052489E540000000000000180
+t1380490836
+s384
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/AppDelegate.m
+c00000000543795B60000000000000A82
+t1412928950
+s2690
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/Default-568h@2x.png
+c0000000052489E5400000000000048A2
+t1380490836
+s18594
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/Default.png
+c0000000052489E54000000000000198C
+t1380490836
+s6540
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/Default@2x.png
+c0000000052489E540000000000003EEB
+t1380490836
+s16107
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Info.plist
+c0000000052489E54000000000000059A
+t1380490836
+s1434
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Prefix.pch
+c0000000052489E540000000000000143
+t1380490836
+s323
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.h
+c000000005437958800000000000000FA
+t1412928904
+s250
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.m
+c00000000543796F800000000000013D1
+t1412929272
+s5073
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.xib
+c00000000543792BB0000000000001B40
+t1412928187
+s6976
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/colors@2x.gif
+c0000000052489E540000000000000260
+t1380490836
+s608
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/en.lproj/InfoPlist.strings
+c0000000052489E54000000000000002D
+t1380490836
+s45
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/main.m
+c0000000052489E540000000000000157
+t1380490836
+s343
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app
+t1412931128
+s408
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app.dSYM
+t1412931128
+s102
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/114×114.png
+t1412931128
+s549
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Default-568h@2x.png
+t1412931128
+s18594
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Default.png
+t1412931128
+s6540
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Default@2x.png
+t1412931128
+s16107
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Info.plist
+t1412931127
+s969
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/PkgInfo
+t1412931127
+s8
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation
+t1412931128
+s39436
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TableViewController.nib
+t1412931128
+s1133
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/colors@2x.gif
+t1412931128
+s608
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/en.lproj/InfoPlist.strings
+t1412931128
+s42
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.o
+t1412931128
+s77408
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TB_TableAnimation.LinkFileList
+c0000000054379E370000000000000223
+t1412931127
+s547
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.o
+t1412931128
+s66960
+
+N/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.o
+t1412931128
+s3452
+
+N/usr/lib/libSystem.B.dylib
+c00000000537C1519000000000000E6D0
+t1400640793
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000521950C50000000000012A00
+t1377390789
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000536A0D25000000000002E320
+t1399459109
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000536A0D360000000000021860
+t1399459126
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053BE4F9E000000000001B610
+t1404981150
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000536A0D4900000000000BD920
+t1399459145
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000536A0D4A000000000000A120
+t1399459146
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053BE4F9E000000000001D550
+t1404981150
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000536A0D490000000000014EE0
+t1399459145
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000536A0D4C0000000000010380
+t1399459148
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000536A0D4C000000000000C4C0
+t1399459148
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000536A0D4A00000000000357A0
+t1399459146
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000536A0D4A000000000000C070
+t1399459146
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000536A0D360000000000168D00
+t1399459126
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000537C152B0000000000010630
+t1400640811
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053BE4F9E000000000001DF10
+t1404981150
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000536A0D360000000000075B00
+t1399459126
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000541A7FD9000000000007CCE0
+t1411022809
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000536A0D3600000000000766C0
+t1399459126
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000536A0D4A0000000000044DC0
+t1399459146
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000541A7FD90000000000021FA0
+t1411022809
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000536A0D4A000000000002D920
+t1399459146
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000536A0D4A000000000001E570
+t1399459146
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053BE4F9E000000000000CC70
+t1404981150
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c00000000537C15260000000000009A80
+t1400640806
+s39552
+
+N/usr/lib/system/libunc.dylib
+c00000000536A0D43000000000000C3F0
+t1399459139
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000536A0D4A00000000000199F0
+t1399459146
+s104944
+
+N/var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch.pch
+t1412931128
+s5386876
+
+CBuild AST from /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/AppDelegate.m
+r0
+
+CBuild AST from /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TableViewController.m
+r0
+
+CBuild AST from /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf81ac2ced5e7b941^c477c2ced5e7b941^---0#1#1#--18"Check dependencies36"EB856162-BFC0-4562-9BCD-9F5AEF1B48AB-
+
+CCompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434623928.290343
+e434623928.374309
+r1
+xCompileC
+xbuild/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/AppDelegate.m
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/AppDelegate.h
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/AppDelegate.m215"CompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.o TableTest2/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb9724ab8d5e7b941^5fd35fb8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/AppDelegate.m0000000000000000^4080"CompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.o TableTest2/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-generated-files.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-own-target-headers.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-all-target-headers.hmap -iquote /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-project-headers.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/DerivedSources/x86_64 -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/DerivedSources -F/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator -include /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch -MMD -MT dependencies -MF /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/AppDelegate.m -o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.o36"54F547BC-5C62-44DC-AF46-A7931525D1A7-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CCompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434623928.290754
+e434623928.377808
+r1
+xCompileC
+xbuild/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.o
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.m
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.h
+o/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.m:101:89: warning: values of type 'NSInteger' should not be used as format arguments; add an explicit cast to 'long' instead [-Wformat]
+o    cell.detailTextLabel.text = [NSString stringWithFormat:@"details for row number %d",indexPath.row];
+o                                                                                    ~~  ^~~~~~~~~~~~~
+o                                                                                    %ld (long)
+o/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.m:92:57: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o        cell.textLabel.textColor = [self colorFromIndex:indexPath.row];
+o                                   ~                    ^~~~~~~~~~~~~
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.m231"CompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.o TableTest2/TableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8f8b4ab8d5e7b941^fab660b8d5e7b941^-921"/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.m:101:89: warning: values of type 'NSInteger' should not be used as format arguments; add an explicit cast to 'long' instead [-Wformat]    cell.detailTextLabel.text = [NSString stringWithFormat:@"details for row number %d",indexPath.row];                                                                                    ~~  ^~~~~~~~~~~~~                                                                                    %ld (long)/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.m:92:57: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]        cell.textLabel.textColor = [self colorFromIndex:indexPath.row];                                   ~                    ^~~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@105"Values of type 'NSInteger' should not be used as format arguments; add an explicit cast to 'long' instead-434623928#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@113"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.m0000000000000000^100#88#100#88#2606#0#19"Format String Issue4(3@113"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.m0000000000000000^100#88#100#101#2606#10#3@113"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.m0000000000000000^100#84#100#86#2602#2#3@113"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.m0000000000000000^100#84#100#86#2602#2#3@113"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.m0000000000000000^100#88#100#88#2606#0#-2@78"Implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int'-434623928#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.m0000000000000000^91#56#91#56#2181#0#22"Value Conversion Issue2(3@113"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.m0000000000000000^91#56#91#69#2181#10#3@113"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.m0000000000000000^91#35#91#36#2160#0#-0#0#1#-19%DVTDocumentLocation4@113"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.m0000000000000000^4128"CompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.o TableTest2/TableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-generated-files.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-own-target-headers.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-all-target-headers.hmap -iquote /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-project-headers.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/DerivedSources/x86_64 -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/DerivedSources -F/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator -include /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch -MMD -MT dependencies -MF /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.d --serialize-diagnostics /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.dia -c /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TableViewController.m -o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.o36"8E062733-3464-4666-BAAE-3A83063318FB-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CCompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434623928.289919
+e434623928.316755
+r1
+xCompileC
+xbuild/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.o
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/main.m
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/AppDelegate.h
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/main.m201"CompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.o TableTest2/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera2604ab8d5e7b941^941751b8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/main.m0000000000000000^4038"CompileC build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.o TableTest2/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-generated-files.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-own-target-headers.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-all-target-headers.hmap -iquote /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-project-headers.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/DerivedSources/x86_64 -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/DerivedSources -F/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator -include /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch -MMD -MT dependencies -MF /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.dia -c /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/main.m -o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.o36"0A76D382-6E54-400B-8446-2A978D619999-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CCompileXIB /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TableViewController.xib
+s434623928.435090
+e434623928.454079
+r1
+xCompileXIB
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TableViewController.xib45"CompileXIB TableTest2/TableViewController.xib5f7a6fb8d5e7b941^d93e74b8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TableViewController.xib0000000000000000^889"CompileXIB TableTest2/TableViewController.xib    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH="/Applications/Xcode 5.app/Contents/Developer/usr/bin/.."    /Applications/Xcode\ 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TableViewController.nib /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TableViewController.xib36"D2C49FDE-D87B-4BCC-811E-F5056C424702-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CCopyStringsFile /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/en.lproj/InfoPlist.strings TableTest2/en.lproj/InfoPlist.strings
+s434623928.432505
+e434623928.434341
+r1
+xCopyStringsFile
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/en.lproj/InfoPlist.strings
+xTableTest2/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy TableTest2/en.lproj/InfoPlist.strings130"CopyStringsFile build/Debug-iphonesimulator/TB_TableAnimation.app/en.lproj/InfoPlist.strings TableTest2/en.lproj/InfoPlist.stringsf3c96eb8d5e7b941^33336fb8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/en.lproj/InfoPlist.strings0000000000000000^671"CopyStringsFile build/Debug-iphonesimulator/TB_TableAnimation.app/en.lproj/InfoPlist.strings TableTest2/en.lproj/InfoPlist.strings    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/en.lproj -- TableTest2/en.lproj/InfoPlist.strings36"BC2F6BF5-75BE-4ED7-BF2C-50524A75F4C1-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CCpResource 114×114.png build/Debug-iphonesimulator/TB_TableAnimation.app/114×114.png
+s434623928.435348
+e434623928.436385
+r1
+xCpResource
+x114×114.png
+xbuild/Debug-iphonesimulator/TB_TableAnimation.app/114×114.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug-iphonesimulator/TB_TableAnimation.app/114×114.png86"CpResource 114×114.png build/Debug-iphonesimulator/TB_TableAnimation.app/114×114.png2f896fb8d5e7b941^20b76fb8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@147"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/114%C3%97114.png0034d82bdeffdf42^684"CpResource 114×114.png build/Debug-iphonesimulator/TB_TableAnimation.app/114×114.png    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/114×114.png /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app36"32022DCF-AE76-479F-B1C8-12589255386A-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CCpResource TableTest2/Default-568h@2x.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default-568h@2x.png
+s434623928.434791
+e434623928.435961
+r1
+xCpResource
+xTableTest2/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/TB_TableAnimation.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy build/Debug-iphonesimulator/TB_TableAnimation.app/Default-568h@2x.png111"CpResource TableTest2/Default-568h@2x.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default-568h@2x.pngb16b6fb8d5e7b941^fe9b6fb8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Default-568h@2x.png0034d82bdeffdf42^727"CpResource TableTest2/Default-568h@2x.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default-568h@2x.png    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/Default-568h@2x.png /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app36"8A6EC4F6-088D-40C2-A73D-ABBF641B8680-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CCpResource TableTest2/Default.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default.png
+s434623928.432686
+e434623928.434355
+r1
+xCpResource
+xTableTest2/Default.png
+xbuild/Debug-iphonesimulator/TB_TableAnimation.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/TB_TableAnimation.app/Default.png95"CpResource TableTest2/Default.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default.png90dc6eb8d5e7b941^2f4f6fb8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Default.png0034d82bdeffdf42^703"CpResource TableTest2/Default.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default.png    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/Default.png /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app36"7F6D4056-966F-434F-9D55-5000F89301A8-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CCpResource TableTest2/Default@2x.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default@2x.png
+s434623928.432919
+e434623928.434580
+r1
+xCpResource
+xTableTest2/Default@2x.png
+xbuild/Debug-iphonesimulator/TB_TableAnimation.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/TB_TableAnimation.app/Default@2x.png101"CpResource TableTest2/Default@2x.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default@2x.pnga2eb6eb8d5e7b941^3a586fb8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Default@2x.png0034d82bdeffdf42^712"CpResource TableTest2/Default@2x.png build/Debug-iphonesimulator/TB_TableAnimation.app/Default@2x.png    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/Default@2x.png /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app36"C90D270E-8076-4A3D-902C-66603B8B8E12-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CCpResource TableTest2/colors@2x.gif build/Debug-iphonesimulator/TB_TableAnimation.app/colors@2x.gif
+s434623928.433513
+e434623928.434910
+r1
+xCpResource
+xTableTest2/colors@2x.gif
+xbuild/Debug-iphonesimulator/TB_TableAnimation.app/colors@2x.gif
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/TB_TableAnimation.app/colors@2x.gif99"CpResource TableTest2/colors@2x.gif build/Debug-iphonesimulator/TB_TableAnimation.app/colors@2x.gif020c6fb8d5e7b941^295c6fb8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/colors@2x.gif0034d82bdeffdf42^709"CpResource TableTest2/colors@2x.gif build/Debug-iphonesimulator/TB_TableAnimation.app/colors@2x.gif    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/colors@2x.gif /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app36"127CADF6-C9A3-463C-AA62-40000C39B5E4-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CGenerateDSYMFile /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app.dSYM /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation
+s434623928.413916
+e434623928.431885
+r1
+xGenerateDSYMFile
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app.dSYM
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generate /Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app.dSYM139"GenerateDSYMFile build/Debug-iphonesimulator/TB_TableAnimation.app.dSYM build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation18086ab8d5e7b941^21916eb8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app.dSYM0034d82bdeffdf42^791"GenerateDSYMFile build/Debug-iphonesimulator/TB_TableAnimation.app.dSYM build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation -o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app.dSYM36"D72D4BB5-5045-4EF5-96CB-84E760AFFFA2-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CLd /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation normal x86_64
+s434623928.378646
+e434623928.412874
+r1
+xLd
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation
+xnormal
+xx86_64
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TB_TableAnimation.LinkFileList
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/main.o
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TableViewController.o
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation84"Ld build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation normal x86_64040261b8d5e7b941^f6b269b8d5e7b941^---0#0#1#--1663"Ld build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation normal x86_64    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export IPHONEOS_DEPLOYMENT_TARGET=6.1    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode\ 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator -F/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator -filelist /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TB_TableAnimation.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/Objects-normal/x86_64/TB_TableAnimation_dependency_info.dat -o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/TB_TableAnimation36"7BC5D58D-8D4A-4496-8688-AF22A9E88ABB-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CProcessInfoPlistFile /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Info.plist /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Info.plist
+s434623927.890913
+e434623927.892616
+r1
+xProcessInfoPlistFile
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Info.plist
+x/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Process /Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Info.plist121"ProcessInfoPlistFile build/Debug-iphonesimulator/TB_TableAnimation.app/Info.plist TableTest2/TB_TableAnimation-Info.plistf720e4b7d5e7b941^e89fe4b7d5e7b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Info.plist0000000000000000^881"ProcessInfoPlistFile build/Debug-iphonesimulator/TB_TableAnimation.app/Info.plist TableTest2/TB_TableAnimation-Info.plist    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Info.plist -genpkginfo /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app/Info.plist36"1257D822-4F85-46D0-9E8D-0F287613C5CC-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CProcessPCH /Users/apple/Library/Developer/Xcode/DerivedData/TB_TableAnimation-hinhzdnbhyoknefxfzauoombcwjp/Index/PrecompiledHeaders/TB_TableAnimation-Prefix-fgtgimioufhmnvfifbtpxqvtryjk_ast/TB_TableAnimation-Prefix.pch.pch TableTest2/TB_TableAnimation-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch.pch TableTest2/TB_TableAnimation-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434623927.893363
+e434623928.289136
+r1
+xProcessPCH
+x/var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch.pch
+xTableTest2/TB_TableAnimation-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Precompile TableTest2/TB_TableAnimation-Prefix.pch323"ProcessPCH /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch.pch TableTest2/TB_TableAnimation-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerefc8e4b7d5e7b941^af084ab8d5e7b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/apple/Documents/Projects/Open%20Source%20Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Prefix.pch0000000000000000^4055"ProcessPCH /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch.pch TableTest2/TB_TableAnimation-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/apple/Documents/Projects/Open Source Project/TB_TableAnimation"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-generated-files.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-own-target-headers.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-all-target-headers.hmap -iquote /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/TB_TableAnimation-project-headers.hmap -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/include -I/Applications/Xcode\ 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/DerivedSources/x86_64 -I/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/TB_TableAnimation.build/Debug-iphonesimulator/TB_TableAnimation.build/DerivedSources -F/Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch.d -c /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/TableTest2/TB_TableAnimation-Prefix.pch -o /var/folders/k1/mtt_hnqd0jq4dcv_t2jnzk8w0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TB_TableAnimation-Prefix-fnkmymducfbeubdttzkrlrmpcjsu/TB_TableAnimation-Prefix.pch.pch36"D05C1FDF-0951-4871-B02E-7BC1FC9CF954-
+bC5A44803-7973-4BAF-8316-400627CEA083
+
+CTouch /Users/apple/Documents/Projects/Open\ Source\ Project/TB_TableAnimation/build/Debug-iphonesimulator/TB_TableAnimation.app
+r0
+

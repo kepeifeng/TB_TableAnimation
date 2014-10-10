@@ -15,9 +15,16 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.viewController = [[TableViewController alloc] init];
-    self.window.rootViewController = self.viewController;
+    UINavigationController * navigationController = [[UINavigationController alloc]initWithRootViewController:self.viewController];
+    UIBarButtonItem * reload = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:(UIBarButtonSystemItemRefresh) target:self action:@selector(reloadButtonTapped:)];
+    self.viewController.navigationItem.rightBarButtonItem = reload;
+    self.window.rootViewController = navigationController;
     [self.window makeKeyAndVisible];
     return YES;
+}
+
+-(void)reloadButtonTapped:(id)sender{
+    [self.viewController reload];
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
